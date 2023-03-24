@@ -1,0 +1,8 @@
+//
+// Created by franc on 3/24/2023.
+//
+
+#ifndef CLASSPROJECT_OPTIONSSTATE_H
+#define CLASSPROJECT_OPTIONSSTATE_H
+
+#endif //CLASSPROJECT_OPTIONSSTATE_H
